@@ -1,2 +1,1 @@
-# PrepCourse-Henry-
-Este Es Un Repositorio De Henry Modulo 2 
+Este Es Un Repositorio Para Clonarlo a Mi Computadora Loco Mente 
