@@ -1,1 +1,1 @@
-Este Es Un Repositorio Para Clonarlo a Mi Computadora Loco Mente 
+Este Es Un Repositorio Para Clonarlo a Mi Computadora de Forma Local 
